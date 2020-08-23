@@ -1,6 +1,6 @@
 
-const width = 650;
-const heigh = 450;
+const width = 640;
+const heigh = 440;
 
 let target = { // tiene dos parametros X e Y
   x: getRamdomNumer (width),
